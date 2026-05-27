@@ -7,6 +7,7 @@ import java.util.stream.IntStream;
 public class VendingMachineMainApp {
 
     public static void main ( String[] args ) {
+        System.out.println("State design pattern");
         Item i1 = new Item("Dairy milk", 10);
         Item i2 = new Item("Savories", 20);
         Item i3 = new Item("Diet Coke", 30);
