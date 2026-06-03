@@ -1,3 +1,3 @@
 # tech-concept
 
-pocs for tech concepts
+This repo is for pocs of tech concepts
